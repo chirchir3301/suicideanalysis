@@ -5,7 +5,6 @@ View('Suicide')
 
 
 #loading packages
-install.packages("ggplot2")
 library(ggplot2)
 library(dplyr)
 library(tidyverse)
